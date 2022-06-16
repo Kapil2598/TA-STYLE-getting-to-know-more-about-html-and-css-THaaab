@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(64, 174, 179);
+    color: aliceblue;
+}
+h3 {color:black;
+}
+
+h1 { color: red;
+
+}
+
+.header {
+    text-shadow: 10ch;
+    text-align: center;
+}
+
+.footer {
+background-color: antiquewhite;
+box-sizing: border-box;
+border: 10cm;
+}
