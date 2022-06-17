@@ -1,0 +1,35 @@
+body {
+    background-color: aquamarine;
+   text-align: center;
+    
+}
+.section {
+    text-align: center;
+}
+h3 {color:black;
+}
+
+h1 { color: red; font-size: 60px; text-align: center;
+
+}
+
+.co {
+  max-width: 1000px;
+  margin: auto;
+}
+
+
+
+.header {
+text-shadow: 10ch;
+text-align: center;
+}
+
+.d {background-color: brown;
+
+}
+.footer {
+background-color: antiquewhite;
+box-sizing: border-box;
+border: 10cm;
+}
